@@ -217,5 +217,33 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "products":[
+  {
+	"className": "Product",
+	"id": 4711,     
+	"key": "Grey t-shirt",
+	"notes": [
+        {
+            "type": "warning",
+            "title": "API test",
+            "description": "<b>Testing the api</b>",
+            "data": []
+        }
+    ]
+  },
+  {
+	"className": "Product",
+	"id": 4712,     
+	"key": "Black t-shirt",
+	"notes": [
+        {
+            "type": "warning",
+            "title": "API test",
+            "description": "<b>Testing the api</b>",
+            "data": []
+        }
+    ]
   }
+  ]
 }
