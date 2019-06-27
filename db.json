@@ -222,7 +222,7 @@
   {
 	"className": "Product",
 	"id": 4711,     
-	"key": "Grey t-shirt",
+	"key": "myPhone 8",
 	"notes": [
         {
             "type": "warning",
@@ -235,7 +235,7 @@
   {
 	"className": "Product",
 	"id": 4712,     
-	"key": "Black t-shirt",
+	"key": "myPhone 8s",
 	"notes": [
         {
             "type": "warning",
